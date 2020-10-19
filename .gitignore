@@ -1,0 +1,11 @@
+/.idea
+/.pytest_cache
+/__pycache__
+/venv
+/videos
+/tocombine
+/testvideos
+/conf
+*.mp4
+*.ttf
+*.webm
